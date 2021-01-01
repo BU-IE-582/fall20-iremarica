@@ -8,3 +8,6 @@
 
 ## Homework 2
 [Here](files/Homework2.html) is my approach for Homework 2.
+
+## Homework 3
+[Here](files/Homework3.html) is my approach for Homework 3.
