@@ -14,3 +14,6 @@
 
 ## Homework 4
 [Here](files/Homework4.html) is my approach for Homework 4.
+
+## Project Report
+[Here](files/ProjectReport_Final.html) is our approach for the project.
